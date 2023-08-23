@@ -1,0 +1,49 @@
+
+html {
+    background-color:rgb(10, 59, 10) ;
+}
+
+.htmlcs {
+text-align: center;
+color: rgb(255, 255, 255);
+}
+
+.tabletags {
+    text-align: center;
+    color: rgb(137, 255, 129);
+    
+}
+
+thead {
+    color:rgb(10, 59, 10) ;
+    border-style: solid;
+    vertical-align: middle; 
+    text-align: center;
+
+}
+
+table {
+    border-collapse: collapse;
+    text-indent: initial;
+    border: 5px solid black;
+    text-align:left;
+    height: 40%;
+    width: 60%;
+    margin-left: 21%;
+    
+}
+    
+ .code {
+    border: 1px;
+    margin: 20px;
+    border-style: inset;
+    margin-left: 10%;
+    white-space: nowrap;
+
+ }
+
+ th, td {
+    border: 2px solid black;
+    background-color: rgb(137, 255, 129);
+ }
+
